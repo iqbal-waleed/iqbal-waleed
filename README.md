@@ -34,9 +34,9 @@ Let’s collaborate and create something extraordinary! 🌟
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:contact@waleediqbal.com)
 
 ## GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=waleediqbal&show_icons=true&locale=en&layout=compact" alt="waleediqbal" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=waleediqbal&show_icons=true&locale=en&layout=compact&hide=python&theme=radical" alt="waleediqbal" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=waleediqbal&show_icons=true&locale=en" alt="waleediqbal" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=waleediqbal&show_icons=true&locale=en&hide=python&theme=radical" alt="waleediqbal" /></p>
 
 
 <!---
