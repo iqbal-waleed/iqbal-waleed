@@ -1,6 +1,6 @@
 # Hi, I'm Waleed Iqbal 👋
 
-<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=6c09b952xfwm84x55ak8e4pmss08uecpezcpcp1spqlhx3gh&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 🚀 **Senior Full Stack Developer | Tech Lead**  
 💻 **Tech Stack**: GoLang, Laravel, MERN (MongoDB, Express.js, React.js, Node.js)  
