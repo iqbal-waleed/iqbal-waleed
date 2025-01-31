@@ -1,7 +1,6 @@
 # Hi, I'm Waleed Iqbal 👋
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/e8b05256-de9d-452e-9af0-d120afed14c8)
-">
+<img align="right" alt="coding" width="400" src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif">
 
 🚀 **Senior Full Stack Developer | Tech Lead**  
 💻 **Tech Stack**: GoLang, Laravel, MERN (MongoDB, Express.js, React.js, Node.js)  
