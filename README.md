@@ -46,7 +46,7 @@ Let’s collaborate and create something extraordinary! 🌟
 ### Activity Overview
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=waleediqbal&show_icons=true&locale=en&hide=python&theme=radical" alt="waleediqbal" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=waleediqbal&show_icons=true&locale=en&layout=compact&hide=python&theme=radical" alt="waleediqbal" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=waleediqbal&show_icons=true&locale=en&layout=compact" alt="waleediqbal" /></p>
 
 
 <!---
