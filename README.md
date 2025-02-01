@@ -34,6 +34,7 @@ Let’s collaborate and create something extraordinary! 🌟
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:contact@waleediqbal.com)
 
 ## GitHub Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=waleediqbal&show_icons=true&locale=en&layout=compact" alt="waleediqbal" /></p>
 
 ### Tech Expertise
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
