@@ -34,9 +34,18 @@ Let’s collaborate and create something extraordinary! 🌟
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:contact@waleediqbal.com)
 
 ## GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=waleediqbal&show_icons=true&locale=en&layout=compact&hide=python&theme=radical" alt="waleediqbal" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=waleediqbal&show_icons=true&locale=en&hide=python&theme=radical" alt="waleediqbal" /></p>
+### Tech Expertise
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Restful APIs](https://img.shields.io/badge/-Restful%20APIs-FF6F61?logo=api&logoColor=white)
+
+### Activity Overview
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=waleediqbal&show_icons=true&locale=en&hide=python&theme=radical" alt="waleediqbal" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=waleediqbal&show_icons=true&locale=en&layout=compact&hide=python&theme=radical" alt="waleediqbal" /></p>
 
 
 <!---
